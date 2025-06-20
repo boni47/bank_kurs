@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAccountTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddBudgets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddCurrencies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddPaymentRoutes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddBudgetTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlBudgets.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlBudgetTypes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlAccountTypes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlClients.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlCurrencies.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlLogs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlPaymentRoutes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlTransactions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
